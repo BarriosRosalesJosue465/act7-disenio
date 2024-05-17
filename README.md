@@ -19,4 +19,5 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 ## img
 
-- ![image](https://github.com/Yadier-Gonzalez-Graciano/Act7slider/assets/143548098/c86d45b7-febc-44cc-b95e-62b352c73414)
+- ![image](https://github.com/BarriosRosalesJosue465/act7-disenio/assets/143548449/9a5fcdd1-cb74-4837-be99-8a17d408bef0)
+
