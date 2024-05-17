@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: MyHomePage(title: 'SuperMercado Gonzalez'),
+      home: MyHomePage(title: 'Sabritas Barrios'),
     );
   }
 }
@@ -25,11 +25,11 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   final List<String> imgList = [
-    "https://raw.githubusercontent.com/Yadier-Gonzalez-Graciano/img-flutterflow_ios_6j/main/Act%2013%20GridView%20Flutter%20Flow/carne4.jpg",
-    "https://raw.githubusercontent.com/Yadier-Gonzalez-Graciano/img-flutterflow_ios_6j/main/Act%2013%20GridView%20Flutter%20Flow/fruta6.jpg",
-    "https://raw.githubusercontent.com/Yadier-Gonzalez-Graciano/img-flutterflow_ios_6j/main/Act%2013%20GridView%20Flutter%20Flow/fruta7.jpg",
-    "https://raw.githubusercontent.com/Yadier-Gonzalez-Graciano/img-flutterflow_ios_6j/main/Act%2013%20GridView%20Flutter%20Flow/panssssssssssss.png",
-    "https://raw.githubusercontent.com/Yadier-Gonzalez-Graciano/img-flutterflow_ios_6j/main/Act%2013%20GridView%20Flutter%20Flow/frutas6.jpg",
+    "https://raw.githubusercontent.com/BarriosRosalesJosue465/img_fluttterFlow_IOS_6J/main/act12NavBar_flutterFlow/producto9.jpg",
+    "https://raw.githubusercontent.com/BarriosRosalesJosue465/img_fluttterFlow_IOS_6J/main/act12NavBar_flutterFlow/producto8.jpg",
+    "https://raw.githubusercontent.com/BarriosRosalesJosue465/img_fluttterFlow_IOS_6J/main/act12NavBar_flutterFlow/producto4.jpg",
+    "https://raw.githubusercontent.com/BarriosRosalesJosue465/img_fluttterFlow_IOS_6J/main/act12NavBar_flutterFlow/producto7.jpg",
+    "https://raw.githubusercontent.com/BarriosRosalesJosue465/img_fluttterFlow_IOS_6J/main/act12NavBar_flutterFlow/producto5.jpg",
   ];
 
   int _currentPage = 0;
